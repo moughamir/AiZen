@@ -1,18 +1,19 @@
 # AiZen
 
-Collecton of Code Experiments made with python :snake: .
+Collecton of Code Experiments made with python :snake:.
 
 ## Getting Started
-Fork :fork_and_knife: , Clone :busts_in_silhouette: & Hack :wrench: .
+Fork :fork_and_knife: Clone :busts_in_silhouette: & Hack :wrench:.
 
 ### Prerequisites
-
+**TODO**
 ### Installing
-
+**TODO**
 ## Known Issues
 If you find any issue you have to deal with it or leave it :trollface: 
 
 ## Contributing
+**TODO**
 Checkout [CONTRIBUTING.md](CONTRIBUTING) for details on our code of conduct, and the process for submitting pull requests.
 
 ## Authors
